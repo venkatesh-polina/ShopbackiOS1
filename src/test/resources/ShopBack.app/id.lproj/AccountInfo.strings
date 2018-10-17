@@ -1,0 +1,36 @@
+
+/* Class = "UITextField"; placeholder = "Contact number"; ObjectID = "5W8-sm-sS6"; */
+"5W8-sm-sS6.placeholder" = "Nomor kontak";
+
+/* Class = "UITextField"; placeholder = "Postal code"; ObjectID = "6hp-Ln-hQr"; */
+"6hp-Ln-hQr.placeholder" = "Kode pos";
+
+/* Class = "UITableViewSection"; headerTitle = "PERSONAL INFO"; ObjectID = "CRC-49-0mr"; */
+"CRC-49-0mr.headerTitle" = "DATA PRIBADI";
+
+/* Class = "UITableViewSection"; headerTitle = "BASIC INFO"; ObjectID = "EGM-xW-pgi"; */
+"EGM-xW-pgi.headerTitle" = "INFORMASI UMUM";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "HdK-u3-DhJ"; */
+"HdK-u3-DhJ.text" = "Ganti Password";
+
+/* Class = "UINavigationItem"; title = "Account Information"; ObjectID = "bBz-xP-MfP"; */
+"bBz-xP-MfP.title" = "Informasi Akun";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "dFw-W4-E5w"; */
+"dFw-W4-E5w.title" = "Simpan";
+
+/* Class = "UITextField"; placeholder = "Full name"; ObjectID = "elm-U4-wZn"; */
+"elm-U4-wZn.placeholder" = "Nama lengkap";
+
+/* Class = "UITextField"; placeholder = "Date of birth"; ObjectID = "fLH-X7-Hsa"; */
+"fLH-X7-Hsa.placeholder" = "Tanggal lahir";
+
+/* Class = "UITextField"; placeholder = "Email address"; ObjectID = "fiR-mx-jp0"; */
+"fiR-mx-jp0.placeholder" = "Alamat E-mail";
+
+/* Class = "UITextField"; placeholder = "Address line"; ObjectID = "pm2-TV-bbT"; */
+"pm2-TV-bbT.placeholder" = "Alamat lengkap";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "sC4-bG-mq1"; */
+"sC4-bG-mq1.title" = "Batal";

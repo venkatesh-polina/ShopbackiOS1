@@ -1,0 +1,25 @@
+{
+    "destinationDeepLink": "shopback://home",
+    "authentication": {
+        "initialMode": "signup"
+    },
+    "button": "เริ่มกันเลย",
+    "tutorialScreens": [
+                        {
+                        "image": "default_1.jpg",
+                        "title": "เลือกร้านและช้อปตามปกติ",
+                        "text": "กว่า 500+ ร้านค้าใน ShopBack"
+                        },
+                        {
+                        "image": "default_2.jpg",
+                        "title": "รับเงินคืน",
+                        "text": "กลับไปยังหน้าบัญชี ShopBack ของคุณ"
+                        },
+                        {
+                        "image": "default_3.jpg",
+                        "title": "ถอนเงินสด",
+                        "text": "ผ่านบัญชีธนาคารหรือ Paypal ของคุณ"
+                        }
+                        ]
+}
+

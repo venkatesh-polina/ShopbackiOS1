@@ -1,0 +1,25 @@
+{
+    "destinationDeepLink": "shopback://home",
+    "authentication": {
+        "initialMode": "signup"
+    },
+    "button": "Get Started",
+    "tutorialScreens": [
+                        {
+                        "image": "default_1.jpg",
+                        "title": "Browse & Shop as Usual",
+                        "text": "from 500+ stores via ShopBack"
+                        },
+                        {
+                        "image": "default_2.jpg",
+                        "title": "Receive Cashback",
+                        "text": "back in your ShopBack account"
+                        },
+                        {
+                        "image": "default_3.jpg",
+                        "title": "Cashout Real Money",
+                        "text": "into your bank account or Paypal"
+                        }
+                        ]
+}
+

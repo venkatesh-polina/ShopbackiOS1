@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aps-environment</key>
+	<string>development</string>
+	<key>com.apple.developer.associated-domains</key>
+	<array>
+		<string>applinks:bnc.lt</string>
+		<string>applinks:app.shopback.com</string>
+		<string>applinks:shopback.onelink.me</string>
+		<string>applinks:www.shopback.com</string>
+		<string>applinks:www.shopback.sg</string>
+		<string>applinks:www.shopback.co.id</string>
+		<string>applinks:www.shopback.my</string>
+		<string>applinks:www.shopback.ph</string>
+		<string>applinks:www.shopback.com.tw</string>
+		<string>applinks:www.myshopback.co.th</string>
+		<string>applinks:www.shopback.co.th</string>
+		<string>applinks:www.shopback.com.au</string>
+		<string>applinks:shopback.com</string>
+		<string>applinks:shopback.sg</string>
+		<string>applinks:shopback.co.id</string>
+		<string>applinks:shopback.my</string>
+		<string>applinks:shopback.ph</string>
+		<string>applinks:shopback.com.tw</string>
+		<string>applinks:myshopback.co.th</string>
+		<string>applinks:m.shopback.sg</string>
+		<string>applinks:m.shopback.co.id</string>
+		<string>applinks:m.shopback.my</string>
+		<string>applinks:m.shopback.ph</string>
+		<string>applinks:m.shopback.com.tw</string>
+		<string>applinks:m.myshopback.co.th</string>
+		<string>applinks:m.shopback.co.th</string>
+		<string>applinks:m.shopback.com.au</string>
+		<string>applinks:email.shopback.com</string>
+		<string>applinks:m.shopback.com</string>
+	</array>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>$(AppIdentifierPrefix)hansel_public_key</string>
+	</array>
+</dict>
+</plist>

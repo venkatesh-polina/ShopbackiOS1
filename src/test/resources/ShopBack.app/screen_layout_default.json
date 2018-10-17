@@ -1,0 +1,133 @@
+{
+    "id": "fallback_config_ios",
+    "screens": [{
+                "tag": "home",
+                "components": [{
+                               "tag": "cashback_greeting",
+                               "detail": {
+                               "newUser": true,
+                               "newUserGreeting": "Congrats!",
+                               "newUserButtonUrl": "https:\/\/www.shopback.sg\/app-how-it-works",
+                               "newUserDescription": "You just kick-started a smarter way to shop, save and live!",
+                               "newUserButtonText": "How it works"
+                               }
+                               },
+                               {
+                               "tag": "concierge",
+                               "detail": {
+                               "columns": 5,
+                               "conciergeTitle": "Explore Categories",
+                               "showSeeMore": true
+                               }
+                               },
+                               {
+                               "tag": "store_group",
+                               "detail": {
+                               "show_see_more": true,
+                               "type": "popular_i",
+                               "name": "Recommended",
+                               "logo": ""
+                               }
+                               },
+                               {
+                               "tag": "banner_group",
+                               "detail": {
+                               "bannerGroupTitle": "Don’t Miss Out",
+                               "showSeeMore": true
+                               }
+                               },
+                               {
+                               "tag": "top_deals_horizontal",
+                               "detail": {
+                               "topDealsTitle": "Deals"
+                               }
+                               },
+                               {
+                               "tag": "blog",
+                               "detail": {
+                               "showSeeMore": true,
+                               "blogTile": "Latest Articles"
+                               }
+                               }
+                               ]
+                },
+                {
+                "tag": "stores",
+                "components": [{
+                               "tag": "concierge",
+                               "detail": {
+                               "columns": 5,
+                               "conciergeTitle": "Explore Categories",
+                               "showSeeMore": false
+                               }
+                               },
+                               {
+                               "tag": "store_group",
+                               "detail": {
+                               "show_see_more": false,
+                               "type": "v2_app_exclusive",
+                               "name": "App exclusive",
+                               "logo": "http:\/\/cloud.shopback.com\/image\/upload\/q_auto:low\/app-assets\/icons\/phone_blue_star_yellow.png"
+                               }
+                               },
+                               {
+                               "tag": "store_group",
+                               "detail": {
+                               "show_see_more": false,
+                               "type": "v2_food_delivery",
+                               "name": "Dining",
+                               "logo": "http:\/\/cloud.shopback.com\/image\/upload\/q_auto:low\/app-assets\/icons\/burger_red.png"
+                               }
+                               },
+                               {
+                               "tag": "store_group",
+                               "detail": {
+                               "show_see_more": false,
+                               "type": "v2_marketplace",
+                               "name": "Shopping",
+                               "logo": "http:\/\/cloud.shopback.com\/image\/upload\/q_auto:low\/app-assets\/icons\/trolley_blue.png"
+                               }
+                               },
+                               {
+                               "tag": "store_group",
+                               "detail": {
+                               "show_see_more": false,
+                               "type": "v2_flight",
+                               "name": "Flights",
+                               "logo": "http:\/\/cloud.shopback.com\/image\/upload\/q_auto:low\/app-assets\/icons\/plane_green.png"
+                               }
+                               },
+                               {
+                               "tag": "store_group",
+                               "detail": {
+                               "show_see_more": false,
+                               "type": "v2_hotels",
+                               "name": "Hotels",
+                               "logo": "http:\/\/cloud.shopback.com\/image\/upload\/q_auto:low\/app-assets\/icons\/bed_blue.png"
+                               }
+                               }
+                               ]
+                }
+                ],
+    "quickAccessPanel": {
+        "dailyNeeds": [{
+                       "title": "Rides",
+                       "url": "shopback:\/\/services\/v2_rides",
+                       "imageUrl": "http:\/\/cloud.shopback.com\/image\/upload\/q_auto:low\/app-assets\/icons\/car_blue.png"
+                       },
+                       {
+                       "title": "Dining",
+                       "url": "shopback:\/\/services\/v2_food_delivery",
+                       "imageUrl": "http:\/\/cloud.shopback.com\/image\/upload\/q_auto:low\/app-assets\/icons\/burger_red.png"
+                       },
+                       {
+                       "title": "Movies",
+                       "url": "shopback:\/\/services\/v2_movie",
+                       "imageUrl": "http:\/\/cloud.shopback.com\/image\/upload\/q_auto:low\/app-assets\/icons\/movie_blue.png"
+                       }
+                       ],
+        "autoOpen": true
+    }
+
+
+}

@@ -1,0 +1,25 @@
+{
+    "destinationDeepLink": "shopback://home",
+    "authentication": {
+        "initialMode": "signup"
+    },
+    "button": "Mulai Disini",
+    "tutorialScreens": [
+                        {
+                        "image": "default_1.jpg",
+                        "title": "Cari & Belanja Seperti Biasa",
+                        "text": "dari 160+ toko online melalui ShopBack"
+                        },
+                        {
+                        "image": "default_2.jpg",
+                        "title": "Dapatkan Cashback",
+                        "text": "di akun ShopBack kamu"
+                        },
+                        {
+                        "image": "default_3.jpg",
+                        "title": "Tarik Uang Tunai",
+                        "text": "ke rekening bank atau sebagai pulsa"
+                        }
+                        ]
+}
+

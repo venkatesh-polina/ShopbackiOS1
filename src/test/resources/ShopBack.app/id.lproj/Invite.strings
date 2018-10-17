@@ -1,0 +1,21 @@
+
+/* Class = "UINavigationItem"; title = "Invite a Friend"; ObjectID = "4Rr-YA-53m"; */
+"4Rr-YA-53m.title" = "Ajak Teman";
+
+/* Class = "UIButton"; normalTitle = "Share in other apps"; ObjectID = "9U9-E1-FiF"; */
+"9U9-E1-FiF.normalTitle" = "Sebarkan di aplikasi lain";
+
+/* Class = "UITabBarItem"; title = "Invite a Friend"; ObjectID = "LvJ-PV-xJk"; */
+"LvJ-PV-xJk.title" = "Ajak Teman";
+
+/* Class = "UILabel"; text = "Share Referral Link"; ObjectID = "ZoD-Tp-1Zo"; */
+"ZoD-Tp-1Zo.text" = "Sebarkan Link Ajak Teman";
+
+/* Class = "UIBarButtonItem"; title = "Help"; ObjectID = "jPB-zB-agZ"; */
+"jPB-zB-agZ.title" = "Bantuan";
+
+/* Class = "UIButton"; normalTitle = "Check your referrals"; ObjectID = "oaU-Zg-BTC"; */
+"oaU-Zg-BTC.normalTitle" = "Cek Ajakan Anda";
+
+/* Class = "UIButton"; normalTitle = "Copy Link"; ObjectID = "xnS-Ll-sU6"; */
+"xnS-Ll-sU6.normalTitle" = "Salin Link";

@@ -1,0 +1,25 @@
+{
+    "destinationDeepLink": "shopback://home",
+    "authentication": {
+        "initialMode": "signup"
+    },
+    "button": "開始",
+    "tutorialScreens": [
+                        {
+                        "image": "default_1.jpg",
+                        "title": "如往常一樣的瀏覽及購物",
+                        "text": "近二百家的聯盟商家與ShopBack合作"
+                        },
+                        {
+                        "image": "default_2.jpg",
+                        "title": "收到現金回饋",
+                        "text": "回到您的ShopBack帳戶"
+                        },
+                        {
+                        "image": "default_3.jpg",
+                        "title": "提領真真實實 白花花的現金！",
+                        "text": "到您的銀行帳號"
+                        }
+                        ]
+}
+

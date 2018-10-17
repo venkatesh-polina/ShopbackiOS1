@@ -1,0 +1,21 @@
+
+/* Class = "UINavigationItem"; title = "Invite a Friend"; ObjectID = "4Rr-YA-53m"; */
+"4Rr-YA-53m.title" = "邀請朋友";
+
+/* Class = "UIButton"; normalTitle = "Share in other apps"; ObjectID = "9U9-E1-FiF"; */
+"9U9-E1-FiF.normalTitle" = "分享";
+
+/* Class = "UITabBarItem"; title = "Invite a Friend"; ObjectID = "LvJ-PV-xJk"; */
+"LvJ-PV-xJk.title" = "邀請朋友";
+
+/* Class = "UILabel"; text = "Share Referral Link"; ObjectID = "ZoD-Tp-1Zo"; */
+"ZoD-Tp-1Zo.text" = "分享推廣連結";
+
+/* Class = "UIBarButtonItem"; title = "Help"; ObjectID = "jPB-zB-agZ"; */
+"jPB-zB-agZ.title" = "求助";
+
+/* Class = "UIButton"; normalTitle = "Check your referrals"; ObjectID = "oaU-Zg-BTC"; */
+"oaU-Zg-BTC.normalTitle" = "確認您的推廣";
+
+/* Class = "UIButton"; normalTitle = "Copy Link"; ObjectID = "xnS-Ll-sU6"; */
+"xnS-Ll-sU6.normalTitle" = "複製連結";
